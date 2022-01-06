@@ -1,4 +1,4 @@
-## Olá sou o Fernando Valler, e trabalho como programador!
+## Olá sou o Fernando Valler e trabalho como programador!
 
 <div align="center">
   <a href="https://github.com/fernandovaller">
